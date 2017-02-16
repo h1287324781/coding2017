@@ -3,6 +3,7 @@
 rebel.xml
 rebel-remote.xml
 
+.classpath
 .project
 .setting
 
